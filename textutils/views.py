@@ -1,4 +1,3 @@
-
 # Views.py
 # I have created this file - Harry
 from django.http import HttpResponse
@@ -81,3 +80,4 @@ def analyze(request):
 #
 # def charcount(request):
 #     return HttpResponse("charcount ")
+
